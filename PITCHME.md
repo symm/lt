@@ -20,7 +20,7 @@
 
 ## https://github.com/symm/vape/
 
-![Vape](assets/qr code.png)
+![QR Code](assets/qr code.jpg)
 
 ---
 
