@@ -8,13 +8,13 @@
 
 ---
 
+🚛  🔥
+
 ![Pipeline](assets/pipeline.png)
-![Endpoints](assets/endpoints.png)
 
----
+---?image=assets/vape.png
 
-
-![Vape](assets/vape.png)
+.
 
 ---
 
