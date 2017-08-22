@@ -13,9 +13,14 @@
 
 ---
 
-#https://github.com/symm/vape/
 
 ![Vape](assets/vape.png)
+
+---
+
+## https://github.com/symm/vape/
+
+![Vape](assets/qr code.png)
 
 ---
 
