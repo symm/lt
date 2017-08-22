@@ -18,7 +18,7 @@
 
 ---
 
-## https://github.com/symm/vape/
+## github.com/symm/vape
 
 ![QR Code](assets/qr code.jpg)
 
