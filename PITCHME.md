@@ -18,10 +18,8 @@
 
 ---
 
+# Thank you
+
 ## github.com/symm/vape
 
 ![QR Code](assets/qr code.jpg)
-
----
-
-The End :)
