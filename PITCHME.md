@@ -8,7 +8,7 @@
 
 ---
 
-🚛  🔥
+🚛💨 OR 🔥🚛🔥
 
 ![Pipeline](assets/pipeline.png)
 
