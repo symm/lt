@@ -8,4 +8,9 @@
 
 ---
 
+![Pipeline](assets/pipeline.png)
+![Endpoints](assets/endpoints.png)
+
+---
+
 The End :)
