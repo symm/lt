@@ -4,11 +4,11 @@
 
 ---?image=assets/circuit-board.jpg
 
-#What?
+#   What
 
 ---
 
-#Why?
+#Why
 
 ---
 
