@@ -16,9 +16,10 @@
 
 ![Pipeline](assets/pipeline.png)
 
----?image=assets/vape.png
+---
 
-.
+![Good](assets/success.png)
+![Bad](assets/failure.png)
 
 ---
 
